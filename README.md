@@ -22,7 +22,7 @@ The entire task was divided into two broad tasks:
 
 
 
-## Steps to Run the App
+## Steps to Run the Streamlit App
 
 **Note:** The OpenAI API I am using is a free version which is almost exhausted, so I am not deploying the web interface on public platform. Here, I am providing steps to run the app on your local system.
 
